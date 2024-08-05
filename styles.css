@@ -1,0 +1,278 @@
+h1{
+    font-size: 60px;
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+h2{
+    font-size: 30px;
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+p{
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+#main_image{
+    width: 100%;
+}
+
+.icon{
+    margin-top: 40px;
+    width: 130px;
+}
+
+main{
+    width: 80%;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    float:right;
+    padding-top:65px;
+}
+
+nav li a{
+    color:white;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+
+}
+
+.intro-block a{
+    display: inline-block;
+}
+
+.button{
+    color: #003b63;
+    font-size: 19px;
+    margin: 30px 5px;
+    padding: 15px 15px;
+    border: 2px solid #003b63;
+    min-width: 150px;
+}
+
+.hero-img{
+    width: 800px;
+}
+
+#intro{
+    background: black url(images/ultra-bungee-hero.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 60px;
+    padding-top: 250px;
+}
+
+footer{
+    background-color:#ed107f;
+    text-align: center;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+header{
+    background-color: #00aeff;
+}
+
+.intro-block{
+    padding-top:30px;
+    padding-bottom:10px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:400px;
+}
+
+#Gallery-text{
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:50px;
+    background-color: #bcf200;
+}
+
+#pictures{
+    background-color: black;
+    text-align: center;
+}
+
+#Gallery-text p{
+    padding-bottom:30px;
+}
+
+#bridge-intro{
+    background: black url(images/bridge1.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 250px;
+    padding-top: 300px;
+}
+
+#bridge-intro h1{
+    font-size: 60px;
+    background-color: #0f3961;
+    color: white;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+#bridge-pricing{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#bridge-pricing h1{
+    font-size: 60px;
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+    margin-bottom:0px;
+}
+
+#bridge-more-info{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:20px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#bridge-button{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:60px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+
+}
+
+#canyon-intro{
+    background: black url(images/canyon1.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 250px;
+    padding-top: 300px;
+}
+
+#canyon-intro h1{
+    font-size: 60px;
+    background-color: #0f3961;
+    color: white;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+#canyon-pricing{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#canyon-pricing h1{
+    font-size: 60px;
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+    margin-bottom:0px;
+}
+
+#canyon-more-info{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:20px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#canyon-button{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:60px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+
+}
+
+
+#tower-intro{
+    background: black url(images/tower1.jpg)
+    no-repeat center;
+    background-size: cover;
+    padding-bottom: 250px;
+    padding-top: 300px;
+}
+
+#tower-intro h1{
+    font-size: 60px;
+    background-color: #0f3961;
+    color: white;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+}
+
+#tower-pricing{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#tower-pricing h1{
+    font-size: 60px;
+    color: #167187;
+    font-family:'Arial',sans-serif;
+    text-align:center;
+    margin-bottom:0px;
+}
+
+#tower-more-info{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:20px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+}
+
+#tower-button{
+    text-align: center;
+    color: #003b63;
+    padding-top:10px;
+    padding-bottom:60px;
+    text-align:center;
+    background-color: #bcf200;
+    margin-top:0px;
+
+}
